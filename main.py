@@ -15,7 +15,7 @@ approval (e.g. under UN R159 / EU General Safety Regulation 2). Use this
 purely for learning, experimentation, or as a starting point for a more
 serious engineering project.
 
-Author: Built by Denuwan
+Author: Build by Denuwan
 """
 
 import csv
